@@ -1,4 +1,4 @@
- How the script works and the code book describing the variables of Course Project
+ ##How the script works and the code book describing the variables of Course Project
  
 Source of the original data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
